@@ -13,7 +13,7 @@ const toolbar = {
   inline: {
     inDropdown: false,
     className: undefined,
-    options: ['bold', 'italic', 'underline', 'superscript', 'subscript'],
+    options: ['bold', 'italic', 'underline'],
   },
 };
 
